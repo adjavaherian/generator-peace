@@ -1,8 +1,8 @@
 {
-  "name": "peace",
-  "version": "1.0.0",
-  "description": "page generator. html5 boilerplate for rapid document or application prototyping.",
-  "main": "scripts/main.js",
+  "name": "generator-peace",
+  "version": "0.1.0",
+  "description": "barebones generator. html5 boilerplate for rapid document or application prototyping.",
+  "main": "app/scripts/main.js",
   "scripts": {
     "test": "make test"
   },
@@ -11,7 +11,7 @@
     "url": "https://github.com/adjavaherian/peace.git"
   },
   "keywords": [
-    "peace",
+    "yeoman-generator",
     "html5",
     "generator",
     "webpp",
@@ -32,5 +32,11 @@
     "grunt-contrib-watch": "^0.6.1",
     "grunt-open": "^0.2.3",
     "open": "0.0.5"
+  },
+  "dependencies": {
+    "yeoman-generator": "^0.17.0",
+    "chalk": "^0.5.0",
+    "yosay": "^0.3.0"
   }
+
 }
