@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adjavaherian/peace.git"
+    "url": "https://github.com/adjavaherian/generator-peace.git"
   },
   "keywords": [
     "yeoman-generator",
@@ -22,9 +22,9 @@
   "author": "@adjavaherian",
   "license": "GPL",
   "bugs": {
-    "url": "https://github.com/adjavaherian/peace/issues"
+    "url": "https://github.com/adjavaherian/generator-peace/issues"
   },
-  "homepage": "https://github.com/adjavaherian/peace",
+  "homepage": "https://github.com/adjavaherian/generator-peace",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-connect": "^0.8.0",
