@@ -1,6 +1,6 @@
 {
   "name": "generator-peace",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "barebones generator. html5 boilerplate for rapid document or application prototyping.",
   "main": "app/scripts/main.js",
   "scripts": {
